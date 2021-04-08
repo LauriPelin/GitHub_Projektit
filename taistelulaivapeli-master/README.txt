@@ -1,9 +1,11 @@
-TAISTELULAIVA
-DTEK0097 2021 
-LAURI PELIN 512478
+Laivanupotuspeli 2021
+
+Tehty Turun Yliopiston Käyttöliittymät kurssille sooloprojektina.
 
 Teknologiat: Unity, Visual Studio Code
-Kontribuutiot: Lauri Pelin 101%
 
-Itse peli löytyy ensimmäiseksi, käynnistyy .exe tiedostosta.
-Lähdekoodi Unityyn ja C# skriptit löytyvät Unity projekti kansiosta.
+Itse peli löytyy ensimmäiseksi, käynnistyy Taistelulaiva.exe tiedostosta.
+
+Pelin lähdekoodi ja C# skriptit löytyvät Unity projekti kansiosta.*
+
+*(C# skriptit ehkä tärkeimpiä, mikäli Unity ei ole entuudestaan tuttu. Löytyvät kohteesta /unityprojekti/Taistelulaiva/Assets/Skriptit)
