@@ -1,0 +1,14 @@
+image: registry.gitlab.utu.fi/tech/soft/tools/teachingtoolchain/ci-malli
+stages:
+- test
+
+test:
+  stage: test
+  script: sh run-tests
+  artifacts:
+    paths:
+      - target/surefire-reports/TEST-*.xml
+      - target/surefire-reports/test*.txt
+      - target/site/surefire-report.html
+  after_script:
+    - sh run_after
