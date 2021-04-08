@@ -1,5 +1,9 @@
 # ThreadRunner
 
+
+## Tein soolotyönä, projektin pitäisi toimia täysin oikein.
+## Alla näkyy tehtävänanto kyseiselle projektille.
+
 ## Hajautetut järjestelmät: Harjoitustyö 1 tehtävänanto
 Ensimmäisessä työssä harjoitellaan säikeiden luontia ja tehtävien jakamista niille. Lisäksi tutkitaan, miten tehtävien suoritusajat vaihtelevat erilaisilla tehtävätyypeillä. Harjoitus pohjautuu valmiiseen ohjelmarunkoon, johon ryhmän tehtävänä on täydentää puuttuvat osat. ThreadRunner-ohjelma käyttää JavaFx-ympäristöä graafisen käyttöliittymänsä toteutukseen. Harjoitustyön tekemiseen ei kuitenkaan tarvita JavaFx-osaamista.
 
