@@ -1,6 +1,6 @@
 # GitHub_Projektit
 
-Tervetuloa Githubiini!
+Tervetuloa GitHubiini!
 
 Täältä löydät tekemiäni projekteja:
 
