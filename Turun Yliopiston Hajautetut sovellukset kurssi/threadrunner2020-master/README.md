@@ -1,8 +1,11 @@
 # ThreadRunner
 
+Kyseisellä kurssilla harjoiteltiin mm. monisäikeisyyttä ja prosessien jakamista säikeille.
 
-## Tein soolotyönä, projektin pitäisi toimia täysin oikein.
-## Alla näkyy tehtävänanto kyseiselle projektille.
+Tein soolotyönä, projektin pitäisi toimia täysin oikein.
+Harjoituksessa annettiin runko, josta puuttui säikeisiin liittyvät toiminnallisuudet. Nämä toiminnallisuudet toteutettiin https://github.com/LauriPelin/GitHub_Projektit/tree/b1a4fb14bcf7bf10e55a8e2e035fe7ff3f6bb8ee/Turun%20Yliopiston%20Hajautetut%20sovellukset%20kurssi/threadrunner2020-master/src/main/java/fi/utu/tech/ThreadRunner/dispatchers missä loin StaticDispatcher, DynamicDispatcher, HarkkaDynaThread sekä HarkkaThread luokat.
+
+Alla näkyy tehtävänanto kyseiselle projektille.
 
 ## Hajautetut järjestelmät: Harjoitustyö 1 tehtävänanto
 Ensimmäisessä työssä harjoitellaan säikeiden luontia ja tehtävien jakamista niille. Lisäksi tutkitaan, miten tehtävien suoritusajat vaihtelevat erilaisilla tehtävätyypeillä. Harjoitus pohjautuu valmiiseen ohjelmarunkoon, johon ryhmän tehtävänä on täydentää puuttuvat osat. ThreadRunner-ohjelma käyttää JavaFx-ympäristöä graafisen käyttöliittymänsä toteutukseen. Harjoitustyön tekemiseen ei kuitenkaan tarvita JavaFx-osaamista.
