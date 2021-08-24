@@ -13,6 +13,7 @@ https://github.com/LauriPelin/GitHub_Projektit/tree/main/taistelulaivapeli-maste
 Monisäikeisyyttä demonstroiva projekti https://github.com/LauriPelin/GitHub_Projektit/tree/e3d332424eb4f22f01c3464a09ed2ec0aaad9f18/Turun%20Yliopiston%20Hajautetut%20sovellukset%20kurssi/threadrunner2020-master
 
 Portfoliosivu löytyy osoitteesta https://lauripelin.github.io/portfolio
+
 Portfoliosivuston koodi löytyy https://github.com/LauriPelin/portfolio
 
 Hunajayrityksellemme tekemäni nettisivut löytyvät osoitteesta http://lempihunaja.fi/
