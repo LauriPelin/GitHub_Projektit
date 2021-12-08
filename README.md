@@ -1,5 +1,4 @@
-# GitHub_Projektit
-# GitHub_Projects
+# GitHub_Projektit / GitHub Projects
 
 Tervetuloa GitHubiini!
 Welcome to my GitHub!
