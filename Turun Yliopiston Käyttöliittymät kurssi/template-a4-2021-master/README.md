@@ -1,5 +1,5 @@
 # Tehtävässä annettiin HashCrackService, mikä pystyy murtamaan MD5-algoritmilla tiivistettyjä salasanoja.
-# Tälle piti tehdä esim. toimiva käyttöliittymä, ja toteuttaa puuttuvia ominaisuuksia.
+# Tälle piti tehdä esim. toimiva käyttöliittymä ja toteuttaa puuttuvia ominaisuuksia.
 
 Kaikki tehtävät on tehty, ja jokaisen tehtävän pitäisi pyöriä täysin oikein. 
 
