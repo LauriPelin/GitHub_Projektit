@@ -17,7 +17,9 @@ https://lempihunaja.fi/
 
 Täysin toimiva laivanupotuspeli /
 Unity based Battleship game
+
 Video preview: https://www.youtube.com/watch?v=ejZ96rxflgs
+
 Source code & playable version of the game https://github.com/LauriPelin/GitHub_Projektit/tree/main/taistelulaivapeli-master
 
 Monisäikeisyyttä demonstroiva projekti /
