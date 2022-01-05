@@ -16,8 +16,9 @@ Family business web page that I built:
 https://lempihunaja.fi/
 
 Täysin toimiva laivanupotuspeli /
-Unity based Battleship game that I made:
-https://github.com/LauriPelin/GitHub_Projektit/tree/main/taistelulaivapeli-master
+Unity based Battleship game
+Video preview: https://www.youtube.com/watch?v=ejZ96rxflgs
+Source code & playable version of the game https://github.com/LauriPelin/GitHub_Projektit/tree/main/taistelulaivapeli-master
 
 Monisäikeisyyttä demonstroiva projekti /
 Multithreading project: https://github.com/LauriPelin/GitHub_Projektit/tree/e3d332424eb4f22f01c3464a09ed2ec0aaad9f18/Turun%20Yliopiston%20Hajautetut%20sovellukset%20kurssi/threadrunner2020-master
