@@ -21,16 +21,16 @@ Hunajayrityksellemme tekemäni nettisivut löytyvät osoitteesta /
 Family business web page that I built:
 https://lempihunaja.fi/
 
+Myyntipuhe investoijille /
+Sales pitch for investors 
+https://youtu.be/hovRo9Q0Aao
+
 Täysin toimiva laivanupotuspeli /
 Unity based Battleship game
 
 Video preview: https://www.youtube.com/watch?v=ejZ96rxflgs
 
 Source code & playable version of the game https://github.com/LauriPelin/GitHub_Projektit/tree/main/taistelulaivapeli-master
-
-Myyntipuhe investoijille /
-Sales pitch for investors 
-https://youtu.be/hovRo9Q0Aao
 
 
 Monisäikeisyyttä demonstroiva projekti /
