@@ -30,7 +30,6 @@ Source code & playable version of the game https://github.com/LauriPelin/GitHub_
 
 Myyntipuhe investoijille /
 Sales pitch for investors 
-
 https://youtu.be/hovRo9Q0Aao
 
 
