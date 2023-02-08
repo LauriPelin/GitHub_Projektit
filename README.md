@@ -10,7 +10,7 @@ B.Sc thesis: https://drive.google.com/file/d/1HqfSSW-CzoXi5lqj-iXR5S49bt3BSttZ/v
 
 
 
-## Artificial Intelligence projects/ Tekoälyprojekteja 
+## Artificial Intelligence projects / Tekoälyprojekteja 
 
 Unsupervised learning using the agglomerative hierarchical clustering and k-means clustering algorithms to find patterns in network activity simulated in a military    network environment
 https://github.com/LauriPelin/GitHub_Projektit/blob/05576f85bcade9d6f2ae7f5118a6e5c3c61995df/M.Sc%20Data%20analysis/Lauri_Pelin_DAKD_2022_exercise_3.ipynb
