@@ -1,8 +1,4 @@
-## GitHub_Projektit / GitHub Projects
-
-Tervetuloa GitHubiini!
-Welcome to my GitHub!
-
+## Welcome / Tervetuloa
 
 CV: https://drive.google.com/file/d/1V3Jpl9aycd31GwBUhf2-p3LLPiddwkqq/view?usp=share_link
 
