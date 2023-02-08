@@ -10,6 +10,11 @@ B.Sc thesis: https://drive.google.com/file/d/1HqfSSW-CzoXi5lqj-iXR5S49bt3BSttZ/v
 
 
 
+
+
+
+
+
 ## Artificial Intelligence projects / Tekoälyprojekteja 
 
 Unsupervised learning using the agglomerative hierarchical clustering and k-means clustering algorithms to find patterns in network activity simulated in a military    network environment
@@ -18,6 +23,12 @@ https://github.com/LauriPelin/GitHub_Projektit/blob/05576f85bcade9d6f2ae7f5118a6
 
 Supervised learning with leave-one-out cross validation, hyperparameter tuning, K-Nearest Neighbors, ridge regression and kNN regression to predict the presence of cardiovascular disease as well as estimate housing prices for Boston area
 https://github.com/LauriPelin/GitHub_Projektit/blob/201eb8d756d0e86771966ddf351119f48b6d52ab/M.Sc%20Data%20analysis/DAKD2022_ex2_Lauri_Pelin.ipynb
+
+
+
+
+
+
 
 
 
