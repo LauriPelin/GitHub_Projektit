@@ -51,7 +51,7 @@ Some of the code for portfolio page:
 https://github.com/LauriPelin/portfolio
 
 
-# Info - CV - Thesis
+## Info - CV - Thesis
 
 CV: https://drive.google.com/file/d/1V3Jpl9aycd31GwBUhf2-p3LLPiddwkqq/view?usp=share_link
 
