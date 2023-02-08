@@ -1,5 +1,4 @@
-# GitHub_Projektit 
-GitHub Projects
+# GitHub_Projektit / GitHub Projects
 
 Tervetuloa GitHubiini!
 Welcome to my GitHub!
@@ -8,6 +7,7 @@ Welcome to my GitHub!
 CV: https://drive.google.com/file/d/1V3Jpl9aycd31GwBUhf2-p3LLPiddwkqq/view?usp=share_link
 
 B.Sc thesis: https://drive.google.com/file/d/1HqfSSW-CzoXi5lqj-iXR5S49bt3BSttZ/view?usp=share_link
+
 
 
 ## Artificial Intelligence projects/ Tekoälyprojekteja :
@@ -21,8 +21,8 @@ https://github.com/LauriPelin/GitHub_Projektit/blob/201eb8d756d0e86771966ddf3511
 
 
 
-## Muita projekteja /
-## You can find my other projects below:
+
+## Muita projekteja / You can find my other projects below:
 
 Salasanojen murtamiseen kykenevä ohjelma (MD5 hash cracker) /
 Program capable of cracking passwords protected with MD5-algorithm.
