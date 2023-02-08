@@ -1,15 +1,3 @@
-## Welcome / Tervetuloa
-
-CV: https://drive.google.com/file/d/1V3Jpl9aycd31GwBUhf2-p3LLPiddwkqq/view?usp=share_link
-
-B.Sc thesis: https://drive.google.com/file/d/1HqfSSW-CzoXi5lqj-iXR5S49bt3BSttZ/view?usp=share_link
-
-
-
-
-
-
-
 
 ## Artificial Intelligence projects / Tekoälyprojekteja 
 
@@ -61,4 +49,17 @@ https://lauripelin.github.io/portfolio
 Portfoliosivuston koodi löytyy /
 Some of the code for portfolio page:
 https://github.com/LauriPelin/portfolio
+
+
+# Info - CV - Thesis
+
+CV: https://drive.google.com/file/d/1V3Jpl9aycd31GwBUhf2-p3LLPiddwkqq/view?usp=share_link
+
+B.Sc thesis: https://drive.google.com/file/d/1HqfSSW-CzoXi5lqj-iXR5S49bt3BSttZ/view?usp=share_link
+
+
+
+
+
+
 
