@@ -27,7 +27,7 @@ Hunajayrityksellemme tekemäni nettisivut löytyvät osoitteesta /
 Family business web page that I built:
 https://lempihunaja.fi/
 
-Myyntipuhe investoijille /
+Turun Kauppakorkeakoulun yrittäjyyskurssin Sales Pitch - Myyntipuhe investoijille /
 Sales pitch for investors 
 https://youtu.be/hovRo9Q0Aao
 
