@@ -1,12 +1,12 @@
 
 ## Artificial Intelligence projects / Tekoälyprojekteja 
 
-Unsupervised learning using the agglomerative hierarchical clustering and k-means clustering algorithms to find patterns in network activity simulated in a military    network environment
-https://github.com/LauriPelin/GitHub_Projektit/blob/36056a3b59464c5e45bee47d0bb1467fbea73744/M.Sc%20Data%20analysis/Lauri_Pelin_DAKD_2022_exercise_3.ipynb
-
-
 Supervised learning with leave-one-out cross validation, hyperparameter tuning, K-Nearest Neighbors, ridge regression and kNN regression to predict the presence of cardiovascular disease as well as estimate housing prices for Boston area
 https://github.com/LauriPelin/GitHub_Projektit/blob/201eb8d756d0e86771966ddf351119f48b6d52ab/M.Sc%20Data%20analysis/DAKD2022_ex2_Lauri_Pelin.ipynb
+
+
+Unsupervised learning using the agglomerative hierarchical clustering and k-means clustering algorithms to find patterns in network activity simulated in a military    network environment
+https://github.com/LauriPelin/GitHub_Projektit/blob/36056a3b59464c5e45bee47d0bb1467fbea73744/M.Sc%20Data%20analysis/Lauri_Pelin_DAKD_2022_exercise_3.ipynb
 
 
 
