@@ -31,9 +31,7 @@ My portfolio page:
 https://lauripelin.github.io/portfolio
 
 
-## Info - CV - Thesis
-
-CV: https://drive.google.com/file/d/1V3Jpl9aycd31GwBUhf2-p3LLPiddwkqq/view?usp=share_link
+## Info - Thesis
 
 B.Sc thesis: https://drive.google.com/file/d/1HqfSSW-CzoXi5lqj-iXR5S49bt3BSttZ/view?usp=share_link
 
